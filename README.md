@@ -1,3 +1,3 @@
 <h1 align="center> AluraBooks </h1>
-![Logo AluraBooks](https://i.imgur.com/ZP5EHl9.png)
-Projeto feito durante curso "HTML e CSS: Responsividade com mobile-first", oferecido pela Alura, com a instrutora Monica Hillman.
+
+![Logo AluraBooks](https://github.com/hugoarranzato/aluraBooks/assets/100294450/5371ae40-c6a7-42f3-96d4-e5c1da7ed19b)
