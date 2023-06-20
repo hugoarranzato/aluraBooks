@@ -1,3 +1,21 @@
-# AluraBooks
+<p align="center">
+ <img src="https://i.imgur.com/ZP5EHl9.png">
+</p>
+<hr>
 
-![Logo AluraBooks](https://github.com/hugoarranzato/aluraBooks/assets/100294450/5371ae40-c6a7-42f3-96d4-e5c1da7ed19b)
+<h4 align="center">
+ :white_check_mark: Projeto Concluído :white_check_mark:
+</h4>
+
+<hr>
+
+# Índice 
+
+* [Descrição do Projeto](#descrição-do-projeto)
+
+
+## Descrição do Projeto
+<p align="justfy">
+ Projeto criado com base no curso "HTML e CSS: Responsividade com mobile-first", oferecido pela plataforma Alura, com a orientação da instrutora Monica Hillman.
+</p>
+
